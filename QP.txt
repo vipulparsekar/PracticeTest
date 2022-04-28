@@ -1,0 +1,12 @@
+•	Perform all operations using terminal.
+•	Create a working directory named “your roll number” on the desktop. Eg 19000. Initialise a local repository in this directory. 
+•	Set local configurations for this repository with your name and email. Change the default branch to “main”
+•	Connect to the remote repository and pull(the question paper is on GitHub).
+•	Use recently created directory as a workspace for eclipse.
+•	Write a unit test for calculating area of a circle.
+•	Document your code using proper java code documentation (Should include author name, version of code, description of method and class, date when it was created, description of parameters and return types). Generate a javadoc in HTML format.
+•	Using selenese commands in IDE visit “w3schools”. Search for javascript. Click on JS Objects. Click on previous button. Click on try it yourself. Save the test in your directory.
+•	Using selenium webdriver open google.com. Search for w3schools and click on the link from search results. Click on javascript/Search for javascript tutorial. Click on JS Objects. Click on previous button. Click on try it yourself. Save the test in your directory.
+•	Save your progress in the local repository.
+•	Create a new branch named “your roll number” eg. 19000. Switch to that branch.
+•	Push the new branch(19000) on the remote repo.
